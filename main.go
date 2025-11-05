@@ -6,7 +6,7 @@ package main
 // step 4 : subcommandes - cli
 // step 5 : manipulation de données avec fichier json
 
-import "liveCoding/cmd"
+import "github.com/vcircosta/go-livecoding/cmd"
 
 func main() {
 	cmd.Execute()
